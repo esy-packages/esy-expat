@@ -14,7 +14,7 @@ jobs:
     - script: 'npm install -g esy@latest --unsafe-perm'
       displayName: 'Install esy'
   - ${{ if ne(parameters.host, 'Windows') }}:
-    - script: 'sudo npm install -g esy@latest --unsafe-perm'
+    - script: 'sudo npm install -g @esy-nightly/esy --unsafe-perm'
       displayName: 'Install esy'
   - script: esy install
     displayName: 'esy install'
