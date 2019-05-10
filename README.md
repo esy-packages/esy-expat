@@ -1,6 +1,4 @@
-[![Travis CI Build Status](https://travis-ci.org/libexpat/libexpat.svg?branch=master)](https://travis-ci.org/libexpat/libexpat)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/libexpat/libexpat?svg=true)](https://ci.appveyor.com/project/libexpat/libexpat)
-
+[![Build Status](https://dev.azure.com/prometheansacrifice/esy-packages/_apis/build/status/prometheansacrifice.esy-expat?branchName=master)](https://dev.azure.com/prometheansacrifice/esy-packages/_build/latest?definitionId=23&branchName=master)
 
 # Expat, Release 2.2.6
 
